@@ -1,0 +1,5 @@
+{
+  "name": "PhotoMotion",
+  "description": "A production-grade, AI-powered media creation suite. Transform photos into videos, generate assets with Veo and Gemini 3 Pro, and edit with a nonlinear timeline experience.",
+  "requestFramePermissions": []
+}
